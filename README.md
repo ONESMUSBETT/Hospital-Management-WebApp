@@ -30,7 +30,7 @@ pip install django
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/ONESMUSBETT/Hospital-Management-WebApp.git
 ```
 
 2. Navigate to the project directory:
